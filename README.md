@@ -2,4 +2,4 @@
 I'm Vigneswaraa
 I ❤️ Coding
 Learning Web Development.
-https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msvicky29)](https://github.com/anuraghazra/github-readme-stats)
